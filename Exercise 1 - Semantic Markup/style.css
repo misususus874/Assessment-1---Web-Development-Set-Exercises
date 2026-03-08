@@ -1,3 +1,8 @@
+.container {
+    max-width: 50%;
+    margin: auto;
+}
+
 /* Makes divisions through gray sections*/
 .sections {
     background-color: rgb(219, 219, 219);
